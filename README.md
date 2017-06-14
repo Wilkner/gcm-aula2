@@ -1,1 +1,7 @@
-# gcm-aula2
+# Atores/Atrizes favoritos
+
++ Will Smith
+
++ Gerard Butler
+
++ Natalie Portman
