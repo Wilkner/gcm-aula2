@@ -1,7 +1,10 @@
+
 # Atores/Atrizes favoritos
 
 + Will Smith
 
-+ Gerard Butler
++ Al Pacnino
 
 + Natalie Portman
+
++ Morgan Freeman
