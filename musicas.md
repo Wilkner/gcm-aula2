@@ -1,7 +1,5 @@
-# Atores/Atrizes favoritos
+# Músicas que gosto
 
-+ Will Smith
-
-+ Gerard Butler
-
-+ Natalie Portman
+* Shiver - Coldplay
+* Coração a batucar - Maria Rita
+* Brave new world - Iron Maiden
